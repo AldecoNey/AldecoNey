@@ -2,11 +2,11 @@
 </div>
 <img src="https://i.imgur.com/VN6uFA1.png">
 <h3 align="left">About me:</h3>
-- 📅 DOB: 08/22/2002
-- Nationality: American
-- Residence: Mendoza, Argentina
-- 📚 I am a student of the University Technical Degree in Programming at UTN in Mendoza, Argentina, currently completing the final semester of the program.
-- 💻 Passionate about programming and seeking my first job in the field. I am a quick learner, motivated, and always ready to tackle new challenges.
+- 📅 DOB: 08/22/2002<br>
+- Nationality: American<br>
+- Residence: Mendoza, Argentina<br>
+- 📚 I am a student of the University Technical Degree in Programming at UTN in Mendoza, Argentina, currently completing the final semester of the program.<br>
+- 💻 Passionate about programming and seeking my first job in the field. I am a quick learner, motivated, and always ready to tackle new challenges.<br>
 - 🔑 My goal is to grow professionally, gain experience, work collaboratively, and stay updated on the latest programming technologies.
 
 <h3 align="left">Connect with me:</h3>
